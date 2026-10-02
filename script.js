@@ -1,1 +1,1 @@
-console.log('Website gestart');
+consol.log('Website gestart');
